@@ -1,4 +1,4 @@
-CS211
+CS211_Lab3
 =====
 
-Lab assignments from Programming for Engineers I in C
+Lab assignment THREE from Programming for Engineers I in C
