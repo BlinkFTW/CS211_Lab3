@@ -24,9 +24,9 @@ int main() {
 	/* Test Part D */
 	int i,j, count = 0;
 	char list[LISTSIZE][WORDSIZE] = { "QUEBEC","PAPA","OSCAR","FOXTROT","INDIA",
-												"KILO","HOTEL","TANGO","NOVEMBER","SIERRA",
-												"ROMEO","ALPHA","ECHO","MIKE","DELTA",
-												"BRAVO","JULIET","GOLF","LIMA","CHARLIE" };
+						"KILO","HOTEL","TANGO","NOVEMBER","SIERRA",
+						"ROMEO","ALPHA","ECHO","MIKE","DELTA",
+						"BRAVO","JULIET","GOLF","LIMA","CHARLIE" };
 	
 	printf("Here's the UNsorted list:\n");
 	for(i=0;i<LISTSIZE;i++){
